@@ -1,4 +1,3 @@
 # Image-to-Pdf
-Converting image files to PDF documentation
-In this we have single or set of images as an input and then convert them in .pdf file
-Input must be an valid string containing image path.
+Converting image files to PDF documents.
+Compile set of images in pdf file. input must be valid images path where all image file exists. output will be single pdf file containing the provided images.
